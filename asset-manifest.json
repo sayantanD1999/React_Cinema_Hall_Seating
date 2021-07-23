@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React_Cinema_Hall_Seating/static/css/main.dbd7eeba.chunk.css",
+    "main.js": "/React_Cinema_Hall_Seating/static/js/main.764faa78.chunk.js",
+    "main.js.map": "/React_Cinema_Hall_Seating/static/js/main.764faa78.chunk.js.map",
+    "runtime-main.js": "/React_Cinema_Hall_Seating/static/js/runtime-main.9c9f74a6.js",
+    "runtime-main.js.map": "/React_Cinema_Hall_Seating/static/js/runtime-main.9c9f74a6.js.map",
+    "static/js/2.7fe1e8d6.chunk.js": "/React_Cinema_Hall_Seating/static/js/2.7fe1e8d6.chunk.js",
+    "static/js/2.7fe1e8d6.chunk.js.map": "/React_Cinema_Hall_Seating/static/js/2.7fe1e8d6.chunk.js.map",
+    "static/js/3.daa1e853.chunk.js": "/React_Cinema_Hall_Seating/static/js/3.daa1e853.chunk.js",
+    "static/js/3.daa1e853.chunk.js.map": "/React_Cinema_Hall_Seating/static/js/3.daa1e853.chunk.js.map",
+    "index.html": "/React_Cinema_Hall_Seating/index.html",
+    "static/css/main.dbd7eeba.chunk.css.map": "/React_Cinema_Hall_Seating/static/css/main.dbd7eeba.chunk.css.map",
+    "static/js/2.7fe1e8d6.chunk.js.LICENSE.txt": "/React_Cinema_Hall_Seating/static/js/2.7fe1e8d6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c9f74a6.js",
+    "static/js/2.7fe1e8d6.chunk.js",
+    "static/css/main.dbd7eeba.chunk.css",
+    "static/js/main.764faa78.chunk.js"
+  ]
+}
